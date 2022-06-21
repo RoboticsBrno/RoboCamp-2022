@@ -1,0 +1,121 @@
+docs_dir: gadgets
+site_name: Robotický tábor 2022
+site_url: https://2021.robotickytabor.cz/
+site_description: >-
+  Robotický tábor 2022...
+
+# repo_name: JakubAndrysek/Tabor...
+# repo_url: https://github.com/JakubAndrysek/Tabor...
+# edit_uri: blob/main/docs/
+
+# Copyright
+copyright: Copyright © 2022 RoboticsBrno
+use_directory_urls: True
+
+# theme:
+#     name: material
+#     palette:
+#         scheme: slate
+#         primary: deep orange
+#         accent: light green
+#     logo: assets/logo.png
+#     favicon: assets/logo180.png
+#     features:
+#         - navigation.expand
+#         - navigation.instant
+#         # - navigation.tracking
+#         # - navigation.instant
+#     custom_dir: overrides
+
+theme:
+  name: material
+  language: cs
+  # logo: assets/logo.png
+  # favicon: images/favicon.png
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+
+  icon:
+    repo: fontawesome/brands/github
+
+  palette:
+    - scheme: default
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-night
+        name: Přepnout na tmavý režim
+    - scheme: slate
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-sunny
+        name: Přepnout na světý režim
+    
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - pymdownx.keys
+  - attr_list
+  - pymdownx.tabbed
+  - featherlight # https://github.com/it-novum/mkdocs-featherlight
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: "¤"
+
+plugins:
+    - search
+    - awesome-pages
+    - encryptcontent: # https://github.com/coink0in/mkdocs-encryptcontent-plugin/
+        # global_password: 'your_password'
+        remember_password: True
+        title_prefix: '🔒'
+        summary: 'Sem asi nemáš přístup...'
+        placeholder: 'Sem zadej heslo:'
+        decryption_failure_message: 'Jejda, tohle není ono'
+        encryption_info_message: 'Zadej vstupní heslo.'
+        # add this line in the top of the MD file
+        # ---
+        # password: PWD
+        # ---
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/RoboticsBrno
+      name: IREE Discord Server
+#   analytics:
+#     provider: google
+#     property: ASD
+
+extra_javascript:
+  - assets/featherlight/jquery-latest.js #https://code.jquery.com/jquery-latest.js
+  - assets/featherlight/featherlight.min.js # https://cdn.jsdelivr.net/npm/featherlight@1.7.14/release/featherlight.min.js
+#   - assets/config.js
+
+extra_css:
+  - assets/featherlight/featherlight.min.css #https://cdn.jsdelivr.net/npm/featherlight@1.7.14/release/featherlight.min.css
+
+
+
+nav:
+    - Domů:
+        - index.md
+    - MicroBit: 
+        - microbit/README.md
+        - Úkoly A:
+            - microbit/ukolyA/index.md
+            - microbit/ukolyA/zadani1.md
+    - RoboSvit:
+        - roboSvit/README.md
+        - roboSvit/manual.md
+    - Pájecí výzva:
+        - solderingChallenge/README.md
+        - solderingChallenge/manual.md            
