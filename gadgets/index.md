@@ -1,1 +1,3 @@
-# Tady bude dokumentace tábora
+# Robotický tábor
+
+## Vítej na stránkách Robotického tábora 2022
