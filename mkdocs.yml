@@ -12,21 +12,6 @@ site_description: >-
 copyright: Copyright © 2022 RoboticsBrno
 use_directory_urls: True
 
-# theme:
-#     name: material
-#     palette:
-#         scheme: slate
-#         primary: deep orange
-#         accent: light green
-#     logo: assets/logo.png
-#     favicon: assets/logo180.png
-#     features:
-#         - navigation.expand
-#         - navigation.instant
-#         # - navigation.tracking
-#         # - navigation.instant
-#     custom_dir: overrides
-
 theme:
   name: material
   language: cs
@@ -41,18 +26,18 @@ theme:
     repo: fontawesome/brands/github
 
   palette:
-    - scheme: default
-      primary: green
-      accent: green
-      toggle:
-        icon: material/weather-night
-        name: Přepnout na tmavý režim
     - scheme: slate
       primary: green
       accent: green
       toggle:
         icon: material/weather-sunny
         name: Přepnout na světý režim
+    - scheme: default
+      primary: green
+      accent: green
+      toggle:
+        icon: material/weather-night
+        name: Přepnout na tmavý režim
     
 
 markdown_extensions:
