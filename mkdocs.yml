@@ -107,3 +107,6 @@ nav:
     - Logická hradla:
         - hradla/README.md
         - hradla/manual.md
+    - BlackBox:
+        - blackBox/README.md
+        - blackBox/manual.md
