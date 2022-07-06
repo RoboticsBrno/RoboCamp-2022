@@ -7,8 +7,11 @@
    viewBox="0 0 132.29167 88.194443"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1 (1:1.1+202105261517+ce6663b3b7)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="labels-L4.svg"
+   inkscape:export-filename="labels-L4.png"
+   inkscape:export-xdpi="144.00002"
+   inkscape:export-ydpi="144.00002"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -28,15 +31,17 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.3566721"
-     inkscape:cx="115.3558"
-     inkscape:cy="31.695205"
-     inkscape:window-width="1920"
-     inkscape:window-height="1030"
-     inkscape:window-x="0"
-     inkscape:window-y="1106"
+     inkscape:zoom="10.853377"
+     inkscape:cx="281.43314"
+     inkscape:cy="102.27232"
+     inkscape:window-width="2560"
+     inkscape:window-height="1476"
+     inkscape:window-x="-12"
+     inkscape:window-y="1878"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2" />
   <g
@@ -148,5 +153,17 @@
          style="stroke-width:0.392603"
          x="149.20143"
          y="116.39845">LED</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.29167px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="127.39552"
+       y="125.5037"
+       id="text3105"
+       transform="scale(1.004665,0.99535667)"><tspan
+         sodipodi:role="line"
+         id="tspan3103"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke:#ea6e6f;stroke-width:0.264583"
+         x="127.39552"
+         y="125.5037">- +</tspan></text>
   </g>
 </svg>

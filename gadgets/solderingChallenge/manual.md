@@ -15,30 +15,38 @@
 
 ## Co kam patří?
 
-### Úroveň 1
+### Úroveň 0
 
-![L1](assets/labels-L1.svg)
+![L0](assets/labels-L0.png)
 
 !!! Pozor danger
     Pozor, u kondenzátoru 4.7u záleží na polaritě. Popisek kondenzátoru
-    musí směřovat ven z desky. Zeptej se lektora, pokud si nejsi jistý.
+    musí směřovat <span style="color:red">**dovnitř**</span> desky. Zeptej se lektora, pokud si nejsi jistý.
+
+### Úroveň 1
+
+![L1](assets/labels-L1.png)
+
+!!! Pozor danger
+    Pozor, u kondenzátoru 4.7u záleží na polaritě. Popisek kondenzátoru
+    musí směřovat <span style="color:red">**ven**</span> z desky (obráceně než u L0). Zeptej se lektora, pokud si nejsi jistý.
 
 
 ### Úroveň 2
 
-![L2](assets/labels-L2.svg)
+![L2](assets/labels-L2.png)
 
 ### Úroveň 3
 
-![L3](assets/labels-L3.svg)
+![L3](assets/labels-L3.png)
 
 ### Úroveň 4
 
-![L4](assets/labels-L4.svg)
+![L4](assets/labels-L4.png)
 
 ### Úroveň 5
 
-![L4](assets/labels-L5.svg)
+![L4](assets/labels-L5.png)
 
 
 ## Jak to funguje?
