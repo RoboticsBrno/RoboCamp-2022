@@ -25,59 +25,59 @@
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-05.jpg)<br>
-5. Vložíme a ohneme další nožičku LEDky
+5. Vložíme a ohneme vnější nožičky všech ostatních LEDek
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-06.jpg)<br>
-6. Proces opakujeme celkem sedmkrát
+6. Ohnuté nožičky zapájíme dohromady
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-07.jpg)<br>
-7. Vnější kružnici zapájíme dohromady
+7. Vnější nožičky jsou zapájené
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-08.jpg)<br>
-8. Ohneme vnitřní nožičku LEDky podle šipky
+8. Ohneme všechny vnitřní nožičky LEDek
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-09.jpg)<br>
-9. Pokračujeme v ohýbání LEDek
+9. Zapájíme vnitřní nožičky LEDek dohromady
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-10.jpg)<br>
-10. Postupně zohneme všechny nožičky LEDek
+10. Vnitřní nožičky jsou zapájené
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-11.jpg)<br>
-11. Zapájíme vnitřní kružnici
+11. Vložíme rezistor podle obrázku a dotlačíme ho k překližce
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-12.jpg)<br>
-12. Na držák naneseme kapku lepidla
+12. Spodní pohled na desku
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-13.jpg)<br>
-13. Držák přitiskneme pod drátky (**pozor polarita!**)
+13. Ohneme vnější nožičku a připájíme k LEDkám
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-14.jpg)<br>
-14. Připájíme držák k LEDkám
+14. Zakrátíme nožičku rezistoru podle obrázku
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-15.jpg)<br>
-15. Zakrátíme nožičku rezistoru podle šipky
+15. Nachystáme si držák na baterii
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-16.jpg)<br>
-16. Připájíme rezistor k držáku baterií
+16. Držák kapkou lepidla přilepíme k překližce jako na obrázku
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-17.jpg)<br>
-17. Zakrátíme nožičku rezistoru podle šipky
+17. K držáku baterií připájíme rezistor a nožičku LEDky
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-18.jpg)<br>
-18. Připájíme rezistor ke vnější kružnici
+18. Zakrátíme nožičku rezistoru a LEDky podle obrázku
 <hr>
 
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-19.jpg)<br>
@@ -87,5 +87,3 @@
 ![RoboSvit schéma](assets/roboSvit-assembly/photo/roboSvit-assembly-20.jpg)<br>
 20. Dokončený RoboSvit
 <hr>
-
-Vytvořil Jakub Andrýsek.
