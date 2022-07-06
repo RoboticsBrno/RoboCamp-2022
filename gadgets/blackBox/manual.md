@@ -21,7 +21,7 @@
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-06.jpg)<br>
-6. Nachystáme si díly D0 a D1 a jako pomůcku si připravíme kousek dvou kolíků o průměru 10 mm a 7 mm. Následně slepíme díly D0 a D1 a **aby nám na sebe díly seděly, vložíme do středního otvoru 10 mm kolík a do jednoho z krajních 7 mm kolík.** Tím máme zajištěno, že se nám díly nepohnou a již je jen sevřeme svorkou.
+6. Nachystáme si díly D0 a D1 a jako pomůcku si připravíme kousek dvou kolíků o průměru 10 mm a 7 mm. Následně slepíme díly D0 a D1 a <b>aby nám na sebe díly seděly, vložíme do středního otvoru 10 mm kolík a do jednoho z krajních 7 mm kolík.</b> Tím máme zajištěno, že se nám díly nepohnou a již je jen sevřeme svorkou.
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-07.jpg)<br>
@@ -37,7 +37,7 @@
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-10.jpg)<br>
-10. Výsledný slepenec B z předchozího kroku nasuneme do slepence A (díly D0,D1). Zkontrolujeme, že se mohou vůči sobě otáčet, a pokud ne, lehce obrousíme kroužky K2 na slepenci B a střední otvor na slepenci A. **Nic nelepíme!**
+10. Výsledný slepenec B z předchozího kroku nasuneme do slepence A (díly D0,D1). Zkontrolujeme, že se mohou vůči sobě otáčet, a pokud ne, lehce obrousíme kroužky K2 na slepenci B a střední otvor na slepenci A. <b>Nic nelepíme!</b>
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-11.jpg)<br>
@@ -54,20 +54,20 @@
 
 ![RoboSvit schéma](assets/blackBox-13.jpg)<br>
 14.  Nalepíme druhý díl S1. Kroky 12 až 15 ještě 3x zopakujeme, abychom měli
-tento díl **4x**
+tento díl <b>4x</b>
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-15.jpg)<br>
 15. Postupně vložíme všechny čtyři slepence C do slepence A, a vyzkoušíme, jestli se může volně točit. Pokud ne, zkontrolujeme, jestli někde nezůstalo nadbytečné lepidlo, případně můžeme styčné plochy lehce obrousit.
-**Nic nelepíme!**
+<b>Nic nelepíme!</b>
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-17.jpg)<br>
-16. Připravíme si slepence A a B dle obrázku. **Nic nelepíme!**
+16. Připravíme si slepence A a B dle obrázku. <b>Nic nelepíme!</b>
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-16.jpg)<br>
-17. Nasuneme jeden díl K3 na kolík dle obrázku. **Nic nelepíme!**
+17. Nasuneme jeden díl K3 na kolík dle obrázku. <b>Nic nelepíme!</b>
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-18.jpg)<br>
@@ -83,19 +83,19 @@ tento díl **4x**
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-21.jpg)<br>
-21. Natočíme si západku dle obrázku. **Nic nelepíme!**
+21. Natočíme si západku dle obrázku. <b>Nic nelepíme!</b>
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-22.jpg)<br>
-22. Do jednoho z otvorů vložíme jeden ze čtyř slepenců C. **Nic nelepíme!**
+22. Do jednoho z otvorů vložíme jeden ze čtyř slepenců C. <b>Nic nelepíme!</b>
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-23.jpg)<br>
-23. Otočíme západku zpět, aby nám držela slepenec C na místě. Slepenec C je třeba natočit tak aby se dalo otočit západkou. **Nic nelepíme!**
+23. Otočíme západku zpět, aby nám držela slepenec C na místě. Slepenec C je třeba natočit tak aby se dalo otočit západkou. <b>Nic nelepíme!</b>
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-25.jpg)<br>
-24. Nasuneme kroužek S2 na kolík slepence C dle obrázku. **Nic nelepíme!**
+24. Nasuneme kroužek S2 na kolík slepence C dle obrázku. <b>Nic nelepíme!</b>
 <hr>
 
 ![RoboSvit schéma](assets/blackBox-24.jpg)<br>
