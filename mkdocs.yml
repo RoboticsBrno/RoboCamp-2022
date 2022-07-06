@@ -103,4 +103,7 @@ nav:
         - roboSvit/manual.md
     - Pájecí výzva:
         - solderingChallenge/README.md
-        - solderingChallenge/manual.md            
+        - solderingChallenge/manual.md
+    - Logická hradla:
+        - hradla/README.md
+        - hradla/manual.md
