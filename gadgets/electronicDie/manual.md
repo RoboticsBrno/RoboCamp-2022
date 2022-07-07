@@ -1,5 +1,21 @@
 # Návod
 
+## Potřebný materiál
+- Deska plošných spojů
+- 3 Diody 1N4148
+- 3 rezistory 10kΩ
+- 3 rezistory 4.7MΩ
+- 5 rezistorů 1kΩ
+- 4 kondezátory 100nF
+- 1 tranzistor BC547B
+- 1 tranzistor BC557B
+- 7 LED
+- tlačítko
+- 2 integrované obvody (CD4029N a NE555N)
+- podložku pod USB konektor
+
+
+## Návod na složení
 ![RoboSvit schéma](assets/Electronic_dice-01.jpg)<br>
 1. Připravíme si desku pro hrací kostku
 <hr>
