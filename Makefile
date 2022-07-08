@@ -7,4 +7,7 @@ setup-local: setup-mkdocs
 
 setup-global: setup-mkdocs
 	mkdir -p .data
-	cp data/global/microbit.yml .data/microbit.ymlc
+	cp data/global/microbit.yml .data/microbit.yml
+
+serve:
+	mkdocs serve
