@@ -1,3 +1,7 @@
+# microbit is undefined
+
+Je potřeba zkopírovat (nebo linkovat) `data/global/microbit.yml` do `.data/`
+
 # Editace dokumentace
 
 ## Nástroje:
