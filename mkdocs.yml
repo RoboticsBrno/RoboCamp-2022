@@ -38,7 +38,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Přepnout na tmavý režim
-    
+
 
 markdown_extensions:
   - pymdownx.highlight
@@ -119,8 +119,7 @@ nav:
     - Beam bot:
         - beamBot/README.md
         - beamBot/manual.md
-    - MicroBit: 
+    - MicroBit:
         - microbit/README.md
-        - Úkoly A:
-            - microbit/ukolyA/index.md
-            - microbit/ukolyA/zadani1.md
+        - Lekce 1:
+            - microbit/lekce1/index.md
