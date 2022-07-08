@@ -124,3 +124,6 @@ nav:
         - Úkoly A:
             - microbit/ukolyA/index.md
             - microbit/ukolyA/zadani1.md
+    - MicroJuice s krabičkou: 
+        - microJuice/README.md
+        - microJuice/manual.md
