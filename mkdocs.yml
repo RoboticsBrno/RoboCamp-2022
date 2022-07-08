@@ -97,7 +97,7 @@ nav:
     - RoboSvit:
         - roboSvit/README.md
         - roboSvit/manual.md
-    - Logická hradla:
+    - Hradla:
         - hradla/README.md
         - hradla/manual.md
     - Hrací kostka:
