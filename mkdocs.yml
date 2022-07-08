@@ -87,6 +87,7 @@ extra_javascript:
 
 extra_css:
   - assets/featherlight/featherlight.min.css #https://cdn.jsdelivr.net/npm/featherlight@1.7.14/release/featherlight.min.css
+  - assets/style.css
 
 
 
