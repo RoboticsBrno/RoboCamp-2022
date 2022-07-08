@@ -15,13 +15,13 @@ use_directory_urls: True
 theme:
   name: material
   language: cs
-  # logo: assets/logo.png
-  # favicon: images/favicon.png
+  logo: assets/logo.png
+  favicon: assets/logo.png
   features:
     - navigation.tabs
     - navigation.indexes
     - navigation.top
-
+  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
 
