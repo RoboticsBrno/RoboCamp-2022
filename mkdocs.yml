@@ -38,7 +38,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Přepnout na tmavý režim
-    
+
 
 markdown_extensions:
   - pymdownx.highlight
@@ -69,8 +69,10 @@ plugins:
         # ---
         # password: PWD
         # ---
-    - markdownextradata:
-        data: .data
+    - macros:
+        include_yaml:
+          # - data/global/microbit.yml
+          - .data/microbit.yml
 
 
 extra:
@@ -119,11 +121,13 @@ nav:
     - Beam bot:
         - beamBot/README.md
         - beamBot/manual.md
-    - MicroBit: 
+    - MicroBit:
         - microbit/README.md
         - Úkoly A:
             - microbit/ukolyA/index.md
             - microbit/ukolyA/zadani1.md
+        - Lekce 1:
+            - microbit/lekce1/index.md
     - MicroJuice s krabičkou: 
         - microJuice/README.md
         - microJuice/manual.md

@@ -48,7 +48,7 @@
     <div class="container">
         <div class="col--1">
             <a href="beamBot/">
-                <img src="beambot/assets/beambot.png">
+                <img src="beamBot/assets/beambot.png">
                 <h2>Beam bot</h2>
             </a>
         </div>
