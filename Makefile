@@ -3,11 +3,11 @@ setup-mkdocs:
 
 setup-local: setup-mkdocs
 	mkdir -p .data
-	cp data/local/microbit.yml .data/microbit.yml
+	ln data/local/microbit.yml .data/microbit.yml
 
 setup-global: setup-mkdocs
 	mkdir -p .data
-	cp data/global/microbit.yml .data/microbit.yml
+	ln data/global/microbit.yml .data/microbit.yml
 
 serve:
 	mkdocs serve

@@ -1,6 +1,6 @@
 # microbit is undefined
 
-Je potřeba zkopírovat (nebo linkovat) `data/global/microbit.yml` do `.data/`
+Je potřeba zkopírovat (nebo hard linkovat) `data/global/microbit.yml` do `.data/`
 
 # Editace dokumentace
 
@@ -16,7 +16,7 @@ Je potřeba zkopírovat (nebo linkovat) `data/global/microbit.yml` do `.data/`
 
 ## Testovací server
 
-`mkdocs serve`
+`mkdocs serve` nebo `make serve`
 
 ## Nasazení na web
 

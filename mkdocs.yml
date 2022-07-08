@@ -69,8 +69,10 @@ plugins:
         # ---
         # password: PWD
         # ---
-    - markdownextradata:
-        data: .data
+    - macros:
+        include_yaml:
+          # - data/global/microbit.yml
+          - .data/microbit.yml
 
 
 extra:
