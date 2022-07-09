@@ -15,7 +15,7 @@ Umožňuje učit základy programování atraktivně a hmatatelně v různých j
 
 ![](assets/microbit-sensors.png)
 
-Micro:bit má přímo vestavěno několik chytrých čidel:
+Micro:bit `v1` má přímo vestavěno několik chytrých periferií:
 
 - [x] programovatelná tlačítka
 - [x] displej (5×5 bodů)
