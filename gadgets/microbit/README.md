@@ -1,12 +1,31 @@
 # O co jde?
 
-Popis...
+Micro:bit je kapesní počítač velmi vhodný do výuky na základní i střední škole.
+Umožňuje učit základy programování atraktivně a hmatatelně v různých jazycích:
 
-Co umim zobrazit ze stranek MicroBitu
+- [x] blokové programování
+- [x] JavaScript
+- [x] Python
 
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_djbbqsbrbFUh" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+[Lokální programování MicroBitu](https://microbit.lan/){ .md-button .md-button--primary target='_blank' }
 
-<div style="position:relative;height:0;padding-bottom:70%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/#pub:_djbbqsbrbFUh" frameborder="0" sandbox="allow-popups allow-forms allow-scripts allow-same-origin"></iframe></div>
+??? tip "Při nefunkčnosti nebo doma"
+	[MicroBit odkudkoliv](https://makecode.microbit.org/){ .md-button .md-button--secondary target='_blank' }
 
 
-<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---codeembed#pub:_djbbqsbrbFUh" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
+![](assets/microbit-sensors.png)
+
+Micro:bit má přímo vestavěno několik chytrých čidel:
+
+- [x] programovatelná tlačítka
+- [x] displej (5×5 bodů)
+- [x] vstupně-výstupní porty
+- [x] akcelerometr – zrychlení, třesení, náklon
+- [x] magnetometr – orientace vůči magnetickému poli Země
+- [x] senzor teploty (jádra procesoru)
+- [x] měřič intenzity světla
+- [x] bluetooth
+- [x] rádio
+
+
+[Zdroj textu](https://www.microbiti.cz/2019/03/co-je-bbc-microbit.html){ target='_blank' }

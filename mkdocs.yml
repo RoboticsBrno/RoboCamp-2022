@@ -49,6 +49,7 @@ markdown_extensions:
   - attr_list
   - pymdownx.tabbed
   - featherlight # https://github.com/it-novum/mkdocs-featherlight
+  - attr_list
   - pymdownx.tasklist:
       custom_checkbox: true
   - toc:
