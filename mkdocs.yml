@@ -123,11 +123,14 @@ nav:
         - beamBot/manual.md
     - MicroBit:
         - microbit/README.md
-        - Úkoly A:
-            - microbit/ukolyA/index.md
-            - microbit/ukolyA/zadani1.md
         - Lekce 1:
             - microbit/lekce1/index.md
-    - MicroJuice s krabičkou: 
+        - Lekce 2:
+            - microbit/lekce2/index.md
+        - Lekce 3:
+            - microbit/lekce3/index.md
+        - Lekce 4:
+            - microbit/lekce4/index.md
+    - MicroJuice s krabičkou:
         - microJuice/README.md
         - microJuice/manual.md

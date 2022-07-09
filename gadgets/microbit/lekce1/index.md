@@ -16,8 +16,6 @@ Zobrazíme něco na displeji.
 {{ microbit_simulator("project_1A") }}
 
 ??? Řešení
-	Po spuštění programu se zobrazí jméno.
-
 	{{ microbit_code("project_1A") }}
 
 
@@ -25,11 +23,24 @@ Zobrazíme něco na displeji.
 Budeme postupovat podle <a target="_blank" href="https://makecode.microbit.org/device/usb">návodu</a>.
 
 ## Zadání B
-Vypíšeme si svoje jméno na displej.
+Vypíšeme si svoje jméno na displej (nepoužívejte diakritiku).
+
+### Ukázka
+
+{{ microbit_simulator("project_1B") }}
+
+??? Řešení
+	{{ microbit_code("project_1B") }}
 
 ## Zadání C
-Budeme blikat LEDkou na
-Finální - čtvereček animace (forever)
+Budeme blikat LEDkou na displeji.
+
+### Ukázka
+
+{{ microbit_simulator("project_1C") }}
+
+??? Řešení
+	{{ microbit_code("project_1C") }}
 
 ## Zadání výstupního úkolu
 Vytvořte animaci zvětšujícího a zmenšujícího se čtverečku.
