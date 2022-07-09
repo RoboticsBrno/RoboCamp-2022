@@ -130,3 +130,8 @@ nav:
         - microbit/lekce2/index.md
         - microbit/lekce3/index.md
         - microbit/lekce4/index.md
+        - microbit/lekce5/index.md
+        - microbit/lekce6/index.md
+    - MicroJuice s krabičkou:
+        - microJuice/README.md
+        - microJuice/manual.md
