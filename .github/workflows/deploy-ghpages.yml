@@ -14,8 +14,4 @@ jobs:
           python-version: 3.x
       - run: pip install -r requirements.txt
 
-      - run: mkdir -p .data 
-
-      - run: cp data/global/microbit.yml .data/microbit.yml
-
       - run: mkdocs gh-deploy --force

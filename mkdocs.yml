@@ -72,7 +72,7 @@ plugins:
         # ---
     - macros: # https://mkdocs-macros-plugin.readthedocs.io/
         include_yaml:
-          - .data/microbit.yml
+          - data/microbit.yml
 
 
 extra:

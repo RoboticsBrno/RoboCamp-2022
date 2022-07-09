@@ -25,11 +25,17 @@ Vyhledáme potřebnou knihovnu (Neopixel, Servo) a kliknutím na ni ji nainstalu
 ## Zadání A1
 Budeme otáčet servo podle azimutu z kompasu.
 
+{{ microbit_snippet("project_4A1") }}
+
 ## Zadání A2
 Budeme nastavovat rychlost serva podle okolního osvětlení.
 
+{{ microbit_snippet("project_4A2") }}
+
 ## Zadání B
 Zobrazíme duhu a budeme jí posouvat po displeji.
+
+{{ microbit_snippet("project_4B") }}
 
 ## Zadání výstupního úkolu
 Vytvořte animaci jedné svítící LEDky, která běhá po LED pásku tam a zpět (Knight Rider).
