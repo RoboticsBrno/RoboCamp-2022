@@ -13,10 +13,7 @@ Zobrazíme něco na displeji.
 
 ### Ukázka
 
-{{ microbit_simulator("project_1A") }}
-
-??? Řešení
-	{{ microbit_code("project_1A") }}
+{{ microbit_snippet("project_1A", "Po spuštění programu se zobrazí jméno.") }}
 
 
 ## Připojení MicroBitu
@@ -27,20 +24,14 @@ Vypíšeme si svoje jméno na displej (nepoužívejte diakritiku).
 
 ### Ukázka
 
-{{ microbit_simulator("project_1B") }}
-
-??? Řešení
-	{{ microbit_code("project_1B") }}
+{{ microbit_snippet("project_1B") }}
 
 ## Zadání C
 Budeme blikat LEDkou na displeji.
 
 ### Ukázka
 
-{{ microbit_simulator("project_1C") }}
-
-??? Řešení
-	{{ microbit_code("project_1C") }}
+{{ microbit_snippet("project_1C") }}
 
 ## Zadání výstupního úkolu
 Vytvořte animaci zvětšujícího a zmenšujícího se čtverečku.

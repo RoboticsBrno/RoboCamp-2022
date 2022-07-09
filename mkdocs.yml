@@ -69,9 +69,8 @@ plugins:
         # ---
         # password: PWD
         # ---
-    - macros:
+    - macros: # https://mkdocs-macros-plugin.readthedocs.io/
         include_yaml:
-          # - data/global/microbit.yml
           - .data/microbit.yml
 
 
@@ -123,14 +122,7 @@ nav:
         - beamBot/manual.md
     - MicroBit:
         - microbit/README.md
-        - Lekce 1:
-            - microbit/lekce1/index.md
-        - Lekce 2:
-            - microbit/lekce2/index.md
-        - Lekce 3:
-            - microbit/lekce3/index.md
-        - Lekce 4:
-            - microbit/lekce4/index.md
-    - MicroJuice s krabičkou:
-        - microJuice/README.md
-        - microJuice/manual.md
+        - microbit/lekce1/index.md
+        - microbit/lekce2/index.md
+        - microbit/lekce3/index.md
+        - microbit/lekce4/index.md
