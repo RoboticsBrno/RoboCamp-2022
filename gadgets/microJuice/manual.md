@@ -3,7 +3,7 @@
 
 ## Potřebný materiál
 
-- Deska Microbit
+- Deska MicroBit
 - Deska MicroJuice
 - Destička pro podlepení USB *(k dostání u lepení)*
 - Pinová lišta (pinhead) zahnutá délky 11
@@ -37,7 +37,7 @@
 <hr>
 
 ![Krok postupu](assets/spacer-posts.jpg)<br>
-5. Přišroubujeme distanční sloupky do děr v Microbitu, aby byly hlavy šroubů středově sladěné s dírami. Utahujeme dostatečně.
+5. Přišroubujeme distanční sloupky do děr v MicroBitu, aby byly hlavy šroubů středově sladěné s dírami. Utahujeme dostatečně.
 
 !!! tip "Zvažte použití kleští pro přidržení sloupků. Pozor na součástky!"
 <hr>

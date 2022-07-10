@@ -59,10 +59,10 @@
             </a>
         </div>
         <div class="col--1">
-            <!-- <a href="microbit/">
-                <img src="microbit/assets/microbit.png">
-                <h2>MicroBit</h2>
-            </a> -->
+            <a href="microbit/">
+                <img src="microJuice/assets/microJuice.png">
+                <h2>MicroJuice</h2>
+            </a>
         </div>
     </div>
 
