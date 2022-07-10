@@ -44,9 +44,12 @@
 
 ![L4](assets/labels-L4.png)
 
+<!--- V roce 2022 není L5
+
 ### Úroveň 5
 
-![L4](assets/labels-L5.png)
+![L5](assets/labels-L5.png)
+--->
 
 
 ## Jak to funguje?
