@@ -59,8 +59,8 @@
             </a>
         </div>
         <div class="col--1">
-            <a href="microbit/">
-                <img src="microJuice/assets/microJuice.png">
+            <a href="microJuice/">
+                <img src="microJuice/assets/microjuice.png">
                 <h2>MicroJuice</h2>
             </a>
         </div>

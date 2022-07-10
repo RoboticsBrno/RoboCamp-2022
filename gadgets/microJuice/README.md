@@ -4,7 +4,7 @@
 
 Součástí MicroJuicu je i krabička, se kterou budete mít styl.
 
-![L0](assets/microjuice.png)
+![MicroJuice](assets/microjuice.png)
 
 # Proč "MicroJuice"?
 
