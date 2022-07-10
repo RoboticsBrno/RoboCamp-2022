@@ -1,4 +1,4 @@
-# Lekce 4
+# Lekce 4 - RGB pásek
 
 V této lekci si představíme MicroJuice a připojíme si RGB LED pásek
 

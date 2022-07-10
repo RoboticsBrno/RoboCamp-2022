@@ -1,4 +1,4 @@
-# Lekce 3
+# Lekce 3 - senzory
 
 V této lekci si ukážeme práci s ostatními senzory, sériovou linkou a proměnnými.
 

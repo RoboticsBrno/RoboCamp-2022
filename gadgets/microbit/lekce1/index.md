@@ -1,4 +1,4 @@
-# Lekce 1
+# Lekce 1 - programovací prostředí
 
 Otevřeme si programovací prostředí <a target="_blank" href="{{ microbit_url }}">Makecode</a>, které si krátce představíme.
 

@@ -1,4 +1,4 @@
-# Lekce 2
+# Lekce 2 - tlačítka, podmínky, cykly
 
 V této lekci si ukážeme základní práci s tlačítky, podmínkami a cykly.
 

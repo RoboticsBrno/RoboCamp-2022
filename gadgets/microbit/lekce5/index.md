@@ -1,4 +1,4 @@
-# Lekce 5
+# Lekce 5 - konstrukty
 
 Tato lekce je zaměřená hlavně na pokročilejší programovací konstrukty.
 

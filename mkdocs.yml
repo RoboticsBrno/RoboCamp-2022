@@ -39,9 +39,9 @@ theme:
         icon: material/weather-night
         name: Přepnout na tmavý režim
 
-
 markdown_extensions:
-  - pymdownx.highlight
+  - pymdownx.highlight:
+      pygments_lang_class: True
   - pymdownx.superfences
   - admonition
   - pymdownx.details
@@ -59,24 +59,25 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 plugins:
-    - search
-    - awesome-pages
-    - encryptcontent: # https://github.com/coink0in/mkdocs-encryptcontent-plugin/
-        # global_password: 'your_password'
-        remember_password: True
-        title_prefix: '🔒'
-        summary: 'Sem asi nemáš přístup...'
-        placeholder: 'Sem zadej heslo:'
-        decryption_failure_message: 'Jejda, tohle není ono'
-        encryption_info_message: 'Zadej vstupní heslo.'
-        # add this line in the top of the MD file
-        # ---
-        # password: PWD
-        # ---
-    - macros: # https://mkdocs-macros-plugin.readthedocs.io/
-        include_yaml:
-          - data/microbit.yml
+  - search
+  - awesome-pages
+  - encryptcontent: # https://github.com/coink0in/mkdocs-encryptcontent-plugin/
+      # global_password: 'your_password'
+      remember_password: True
+      title_prefix: "🔒"
+      summary: "Sem asi nemáš přístup..."
+      placeholder: "Sem zadej heslo:"
+      decryption_failure_message: "Jejda, tohle není ono"
+      encryption_info_message: "Zadej vstupní heslo."
+      # add this line in the top of the MD file
+      # ---
+      # password: PWD
+      # ---
+  - macros: # https://mkdocs-macros-plugin.readthedocs.io/
+      include_yaml:
+        - data/microbit.yml
 
+libs: jquery
 
 extra:
   social:
@@ -90,49 +91,49 @@ extra:
 extra_javascript:
   - assets/featherlight/jquery-latest.js #https://code.jquery.com/jquery-latest.js
   - assets/featherlight/featherlight.min.js # https://cdn.jsdelivr.net/npm/featherlight@1.7.14/release/featherlight.min.js
+  - assets/makecode_embed.js
 #   - assets/config.js
 
 extra_css:
   - assets/featherlight/featherlight.min.css #https://cdn.jsdelivr.net/npm/featherlight@1.7.14/release/featherlight.min.css
   - assets/style.css
 
-
-
 nav:
-    - Domů:
-        - index.md
-    - RoboSvit:
-        - roboSvit/README.md
-        - roboSvit/manual.md
-    - Hradla:
-        - hradla/README.md
-        - hradla/manual.md
-    - Hrací kostka:
-        - electronicDie/README.md
-        - electronicDie/manual.md
-    - Pájecí výzva:
-        - solderingChallenge/README.md
-        - solderingChallenge/manual.md
-    - BlackBox:
-        - blackBox/README.md
-        - blackBox/manual.md
-    - Electron:
-        - electron/README.md
-        - electron/electron-lesson-1.md
-        - electron/electron-lesson-2.md
-        - electron/electron-lesson-3.md
-    # - Beam bot:
-    #     - beamBot/README.md
-    #     - beamBot/manual.md
-    - MicroBit:
-        - microbit/README.md
-        - microbit/lekce1/index.md
-        - microbit/lekce2/index.md
-        - microbit/lekce3/index.md
-        - microbit/lekce4/index.md
-        - microbit/lekce5/index.md
-        - microbit/lekce6/index.md
-        - microbit/inspirace/index.md
-    - MicroJuice s krabičkou:
-        - microJuice/README.md
-        - microJuice/manual.md
+  - Domů:
+      - index.md
+  - RoboSvit:
+      - roboSvit/README.md
+      - roboSvit/manual.md
+  - Hradla:
+      - hradla/README.md
+      - hradla/manual.md
+  - Hrací kostka:
+      - electronicDie/README.md
+      - electronicDie/manual.md
+  - Pájecí výzva:
+      - solderingChallenge/README.md
+      - solderingChallenge/manual.md
+  - BlackBox:
+      - blackBox/README.md
+      - blackBox/manual.md
+  - Electron:
+      - electron/README.md
+      - electron/electron-lesson-1.md
+      - electron/electron-lesson-2.md
+      - electron/electron-lesson-3.md
+  # - Beam bot:
+  #     - beamBot/README.md
+  #     - beamBot/manual.md
+  - MicroBit:
+      - microbit/README.md
+      - microbit/lekce1/index.md
+      - microbit/lekce2/index.md
+      - microbit/lekce3/index.md
+      - microbit/lekce4/index.md
+      - microbit/lekce5/index.md
+      - microbit/lekce6/index.md
+      - microbit/lekce7/index.md
+      - microbit/inspirace/index.md
+  - MicroJuice s krabičkou:
+      - microJuice/README.md
+      - microJuice/manual.md

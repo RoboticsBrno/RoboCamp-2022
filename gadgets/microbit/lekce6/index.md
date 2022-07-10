@@ -1,4 +1,4 @@
-# Lekce 6
+# Lekce 6 - radio
 
 V této lekci se seznámíme s bezdrátovou komunikací mezi MicroBity.
 
