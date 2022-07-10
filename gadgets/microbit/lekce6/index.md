@@ -6,9 +6,21 @@ V této lekci se seznámíme s bezdrátovou komunikací mezi MicroBity.
 
 Posílejte pomocí rádia příkazy, které půjčený MicroBit poslouchá a posouvá podle toho rozsvícenou LED na displeji.
 
+Na posílání souřadnic použijte `radio send value` funkci, se jmény hodnot `"x"` a `"y"`, každá v rozmezí od 0 do 4 včetně.
+
+### Ukázka
+
+{{ microbit_snippet("project_6A") }}
+
 ## Zadání B
 
 Poslouchejte příkazy na rádiu, které posílá půjčený MicroBit a posouvejte podle toho rozsvícenou LED na displeji.
+
+Na přijetí hodnot použijte blok `on radio received (name) (value)`, budou vám přicházet číselné hodnoty s názvy `"x"` a `"y"`, každá v rozmezí od 0 do 4 včetně.
+
+### Ukázka
+
+{{ microbit_snippet("project_6B") }}
 
 ## Zadání C
 
@@ -29,3 +41,15 @@ Posílejte zprávy pomocí bloku `radio send string` v následujícím formátu:
 
 Barvy vybírejte z následující tabulky a označujte je napsaným názvem:
 ![Seznam barev](assets/colors.png)
+
+### Příklad komunikace
+
+```
+ferda 0 3 RED
+OK
+ferda 1 2 GREEN
+OK
+
+spatneNapsanyPrikaz
+ERROR
+```
