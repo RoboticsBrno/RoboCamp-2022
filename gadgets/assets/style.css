@@ -44,9 +44,14 @@ nav img:hover {
 	flex-wrap: wrap;
 	flex-flow: row wrap;
 	align-items: flex-end;
-	justify-content: space-around;	
+	justify-content: space-around;
 }
 
 .col--1 {
 	flex: 1;
+}
+
+[data-md-color-scheme="default"] img {
+	-webkit-filter: drop-shadow(0px 0px 2px #222222);
+	filter: drop-shadow(0px 0px 2px #222222);
 }
