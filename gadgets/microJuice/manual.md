@@ -29,11 +29,11 @@
 <hr>
 
 ![Krok postupu](assets/pinheaders-inserted.jpg)<br>
-3. Připájíme pinovou lištu. Z kousku pinheadu délky 11 opatrně vytáhneme dva piny (pinzetou, kleštěmi) tak, aby vznikly tři trojice. Vložíme ze strany součástek, připájíme. Můžeme zajistit očištění.
+3. Připájíme pinovou lištu. Z kousku pinheadu délky 11 opatrně vytáhneme dva piny (pinzetou, kleštěmi) tak, aby vznikly tři trojice. Vložíme ze strany součástek, připájíme. Můžeme zajistit očištění tavidla.
 <hr>
 
 ![Krok postupu](assets/pegs.jpg)<br>
-4. Vtlačíme ocelové kolíky do spodní poloviny krabičky, aby byly na spodní straně zarovnané. S citem můžeme použít kladivo. Pokud sloupky málo drží ve spodní polovině, lze zakápnout lepidlem.
+4. Vtlačíme ocelové kolíky do spodní poloviny krabičky, aby byly na spodní straně zarovnané. S citem můžeme použít kladivo. Pokud sloupky málo drží, lze zakápnout lepidlem.
 <hr>
 
 ![Krok postupu](assets/spacer-posts.jpg)<br>
@@ -47,5 +47,5 @@
 <hr>
 
 ![Krok postupu](assets/finish.jpg)<br>
-6. Voilá
+7. Voilá
 <hr>
