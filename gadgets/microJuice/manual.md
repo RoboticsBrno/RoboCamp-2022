@@ -5,13 +5,15 @@
 
 - Deska Microbit
 - Deska MicroJuice
-- Destička pro podlepení USB
+- Destička pro podlepení USB *(k dostání u lepení)*
 - Pinová lišta (pinhead) zahnutá délky 11
 - 5 distančních sloupků 10mm
 - 10 šroubů M3
 - 2 ocelové kolíky 3x24mm
 - Plastové díly krabičky (2)
 - Plexi kryt krabičky
+
+![Krok postupu](assets/bom.jpg)<br>
 
 ## Návod na složení
 
@@ -26,23 +28,24 @@
 !!! tip "Důležité je přesné osazení. Netlačit příliš na plexi, je křehké."
 <hr>
 
-![Krok postupu](assets/pinheaders-separate.jpg)<br>
 ![Krok postupu](assets/pinheaders-inserted.jpg)<br>
-3. Připájíme pinovou lištu. Z kousku pinheadu délky 11 opatrně vytáhneme dva piny (pinzetou, kleštěmi) tak, aby vznikly tři trojice. Vložíme ze strany součástek, připájíme.
+3. Připájíme pinovou lištu. Z kousku pinheadu délky 11 opatrně vytáhneme dva piny (pinzetou, kleštěmi) tak, aby vznikly tři trojice. Vložíme ze strany součástek, připájíme. Můžeme zajistit očištění.
 <hr>
 
-![Krok postupu](assets/BLA.jpg)<br>
-4. Vtlačíme ocelové kolíky do spodní poloviny krabičky, aby byly na spodní straně zarovnané. S citem můžeme použít kladivo.
+![Krok postupu](assets/pegs.jpg)<br>
+4. Vtlačíme ocelové kolíky do spodní poloviny krabičky, aby byly na spodní straně zarovnané. S citem můžeme použít kladivo. Pokud sloupky málo drží ve spodní polovině, lze zakápnout lepidlem.
 <hr>
 
-![Krok postupu](assets/BLE.jpg)<br>
+![Krok postupu](assets/spacer-posts.jpg)<br>
 5. Přišroubujeme distanční sloupky do děr v Microbitu, aby byly hlavy šroubů středově sladěné s dírami. Utahujeme dostatečně.
+
+!!! tip "Zvažte použití kleští pro přidržení sloupků. Pozor na součástky!"
 <hr>
 
-![Krok postupu](assets/BLO.jpg)<br>
+![Krok postupu](assets/screwed-together.jpg)<br>
 6. Přišroubujeme MicroJuice k distančním sloupkům. Utahujeme dostatečně.
-
-!!! tip "Je vhodné použít kleště pro přidržení sloupků. Pozor na součástky!"
 <hr>
 
-
+![Krok postupu](assets/finish.jpg)<br>
+6. Voilá
+<hr>
