@@ -41,3 +41,15 @@ Posílejte zprávy pomocí bloku `radio send string` v následujícím formátu:
 
 Barvy vybírejte z následující tabulky a označujte je napsaným názvem:
 ![Seznam barev](assets/colors.png)
+
+### Příklad komunikace
+
+```
+ferda 0 3 RED
+OK
+ferda 1 2 GREEN
+OK
+
+spatneNapsanyPrikaz
+ERROR
+```
