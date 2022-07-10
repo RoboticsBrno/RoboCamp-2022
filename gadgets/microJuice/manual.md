@@ -23,7 +23,7 @@
 
 ![Krok postupu](assets/box-glue.jpg)<br>
 ![Krok postupu](assets/box-glue-applied.jpg)<br>
-2. Odlepíme ochrannou folii <b>z jedné strany</b> plexi. Na vrchní obvod horní poloviny krabičky naneseme souvislou tenkou vrstvu lepidla. Správnou stranou přilepíme.
+2. Odlepíme ochrannou folii <b>z jedné strany</b> plexi. Na vrchní obvod horní poloviny krabičky naneseme souvislou tenkou vrstvu lepidla. Odhalenou stranou plexi přilepíme.
 
 !!! tip "Důležité je přesné osazení. Netlačit příliš na plexi, je křehké."
 <hr>
