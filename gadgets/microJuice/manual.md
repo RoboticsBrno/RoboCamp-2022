@@ -4,7 +4,7 @@
 ## Potřebný materiál
 
 - Deska MicroBit
-- Deska MicroJuice
+- Deska MicroJuice *(olámeme okraje, např. kleštěmi)*
 - Destička pro podlepení USB *(k dostání u lepení)*
 - Pinová lišta (pinhead) zahnutá délky 11
 - 5 distančních sloupků 10mm
