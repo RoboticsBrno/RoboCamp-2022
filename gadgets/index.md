@@ -47,16 +47,10 @@
 
     <div class="container">
         <div class="col--1">
-            <a href="beamBot/">
+            <!-- <a href="beamBot/">
                 <img src="beamBot/assets/beambot.png">
                 <h2>Beam bot</h2>
-            </a>
-        </div>
-        <div class="col--1">
-            <a href="/">
-                <img src="noImage.png">
-                <h2>-</h2>
-            </a>
+            </a> -->
         </div>
         <div class="col--1">
             <a href="microbit/">
@@ -64,8 +58,14 @@
                 <h2>MicroBit</h2>
             </a>
         </div>
-    </div>	
+        <div class="col--1">
+            <!-- <a href="microbit/">
+                <img src="microbit/assets/microbit.png">
+                <h2>MicroBit</h2>
+            </a> -->
+        </div>
+    </div>
 
 
- 
+
 </div>
