@@ -34,6 +34,8 @@
 
 ![Krok postupu](assets/pegs.jpg)<br>
 4. Vtlačíme ocelové kolíky do spodní poloviny krabičky, aby byly na spodní straně zarovnané. S citem můžeme použít kladivo. Pokud sloupky málo drží, lze zakápnout lepidlem.
+
+!!! tip "Kladivem tlučeme vždy na vhodné podložce - neděláme kolíkem důlky do stolu!"
 <hr>
 
 ![Krok postupu](assets/spacer-posts.jpg)<br>
