@@ -3,7 +3,7 @@
 ## Potřebný materiál
 - Deska plošných spojů
 - 4 LED
-- 21 rezistor 10kΩ
+- 21 rezistorů 10kΩ
 - 7 tlačítek
 - 12 tranzistorů
 
@@ -13,7 +13,7 @@
 <hr>
 
 ![Krok postupu](photo/hradla-assembly-02.jpg)<br>
-2. Naohýbáme si nožičky všech jednadvaceti rezistorů, tak aby šli lehce zasunout na pozice na desce
+2. Naohýbáme si nožičky všech jednadvaceti rezistorů, tak aby šly lehce zasunout na pozice na desce
 <hr>
 
 ![Krok postupu](photo/hradla-assembly-03.jpg)<br>

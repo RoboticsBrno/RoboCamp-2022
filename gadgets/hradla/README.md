@@ -1,7 +1,7 @@
 # O co jde?
 
 Hradlo neboli logický člen je základní stavební prvek logických obvodů, který vyčísluje logickou funkci. 
-Hradla mají vstupy a typicky jediný výstup. Hodnota na výstupu logického členu je funkcí hodnot vstupních, což znamená že logický hodnota výstupu je závislá jen na hodnotě vstupu. Naše hradla jsou složena z jednotlivých tranzistorů a rezistoru které si sami zapájíte tak, aby fungovali jako logické hradla.
+Hradla mají vstupy a typicky jediný výstup. Hodnota na výstupu logického členu je funkcí hodnot vstupních, což znamená, že logická hodnota výstupu je závislá jen na hodnotě vstupu. Naše hradla jsou složena z jednotlivých tranzistorů a rezistoru, které si sami zapájíte tak, aby fungovaly jako logické hradla.
 
 ![RoboSvit přední strana](photo/hradla-propag-00.png)
 
