@@ -4,8 +4,8 @@ def define_env(env):
   def microbit_simulator(solution_id):
     "Generate microbit simulator for solution id"
     return """\
-<button class="md-button" onclick="document.getElementById('{solution_id}').contentWindow.location.reload();">:material-reload:</button>
-<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe id="{solution_id}" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="{microbit_url}/---run?id={microbit_id}" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+<button class="md-button" onclick="document.getElementById('{solution_id}').src = document.getElementById('{solution_id}').src">:material-reload:</button>
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe id="{solution_id}" style="position:absolute;top:0;left:0;width:100%;height:100%;" src="{microbit_url}/---run?id={microbit_id}&nofooter=1" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 """.format(microbit_url=env.variables.microbit_url, microbit_id=env.variables.solutions[solution_id], solution_id=solution_id)
 
   @env.macro
