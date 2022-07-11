@@ -32,15 +32,14 @@ Posílejte pomocí rádia načtená data ze senzoru a na druhém MicroBitu je n�
 
 ## Zadání výstupního úkolu V2
 
-Někde běží MicroBit připojený k projektoru a zobrazuje obrázek, který můžete pomocí příkazů z rádia po jednotlivých pixelech překreslovat.
-Posílejte zprávy pomocí bloku `radio send string` v následujícím formátu:
+U vchodu běží MicroBit připojený k projektoru a zobrazuje plátno 100x100 pixelů, které můžete pomocí příkazů z rádia po jednotlivých pixelech překreslovat.
+Posílejte zprávy pomocí bloku `radio send string` ve skupině 127 v následujícím formátu:
 
 `<command> [<arg1> <arg2> ...]`
 
-Na překreslování posílejte příkaz ve tvaru: `paint <x> <y> <color>`.
-
 Nezapomeňte si zapnout posíláni sériového čísla v pokročilých bločcích rádia.
- <!-- Po poslání příkazu se pixel na obrázku změní a dostanete zpátky textovou zprávu `OK`, když příkaz není v pořádku, přijde vám textová zpráva `ERROR`. Pixely můžete měnit jednou za časový interval. Pokud chcete měnit pixely moc rychle, dostanete odpověď `TIMEOUT`. -->
+
+Na překreslování posílejte příkaz: `paint <x> <y> <color>`.
 
 Barvy vybírejte z následující tabulky a označujte je napsaným názvem:
 ![Seznam barev](assets/colors.png)
@@ -49,5 +48,5 @@ Barvy vybírejte z následující tabulky a označujte je napsaným názvem:
 
 ```
 paint 0 3 RED
-paint 1 2 GREEN
+paint 80 24 GREEN
 ```
