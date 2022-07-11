@@ -41,11 +41,11 @@
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-07.jpg)<br>
-7. Osadíme 1 tranzistor <b>BC547B</b> (T2) <b>Je třeba dodržet orientaci dle naznačení na desce!</b>
+7. Osadíme 1 tranzistor <b>BC547B</b> (T1) <b>Je třeba dodržet orientaci dle naznačení na desce!</b>
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-08.jpg)<br>
-8. Osadíme 1 tranzistor <b>BC557B</b> (T1) <b>Opět je třeba dodržet otočení dle nákresu na desce!</b>
+8. Osadíme 1 tranzistor <b>BC557B</b> (T2) <b>Opět je třeba dodržet otočení dle nákresu na desce!</b>
 <hr>
 
 ![RoboSvit schéma](assets/Electronic_dice-09.jpg)<br>
