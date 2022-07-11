@@ -48,11 +48,6 @@ Barvy vybírejte z následující tabulky a označujte je napsaným názvem:
 ### Příklad komunikace
 
 ```
-ferda 0 3 RED
-OK
-ferda 1 2 GREEN
-OK
-
-spatneNapsanyPrikaz
-ERROR
+paint 0 3 RED
+paint 1 2 GREEN
 ```
