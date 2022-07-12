@@ -44,6 +44,22 @@ Na překreslování posílejte příkaz: `paint <x> <y> <color>`.
 Barvy vybírejte z následující tabulky a označujte je napsaným názvem:
 ![Seznam barev](assets/colors.png)
 
+## Bonus
+
+### Ukázka implementace přijímače mikrobitu
+```js
+radio.onReceivedString(function (receivedString) {
+    serial.writeLine("" + radio.receivedPacket(RadioPacketProperty.SerialNumber) + " " + receivedString)
+})
+radio.setGroup(127)
+serial.redirectToUSB()
+serial.setWriteLinePadding(0)
+basic.forever(function () {
+    basic.showArrow(ArrowNames.North)
+    basic.clearScreen()
+})
+```
+
 ### Příklad komunikace
 
 ```
