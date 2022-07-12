@@ -26,10 +26,6 @@ Budeme zobrazovat jedno písmeno, pomocí tlačítek se budeme posouvat v abeced
 
 {{ microbit_snippet("project_5C") }}
 
-## Zadání výstupního úkolu V1
+## Zadání výstupního úkolu
 
 Pomocí tlačítek si zvolte jas (zobrazuje s displeji) a stisknutím obou tlačítek zaráz plynule jas nastavte na LEDky.
-
-## Zadání výstupního úkolu V2
-
-TODO: "morseovka"
