@@ -66,3 +66,20 @@ basic.forever(function () {
 paint 0 3 RED
 paint 80 24 GREEN
 ```
+
+## Hra 2048
+
+U vchodu běží druhý MicroBit, který ovládá hru <i>2048</i> za pomoci hlasování. Hlasovat může každý MicroBit pomocí rádia jednou za 10s.
+Posílejte zprávy pomocí bloku `radio send string` ve skupině 128 v následujícím formátu:
+
+`<command>`
+
+Nezapomeňte si zapnout posíláni sériového čísla v pokročilých bločcích rádia.
+
+Pro hlasování posílejte jeden z následujících příkazů:
+
+ - `up` - přejdi do směru nahoru
+ - `down` - přejdi do směru dolů
+ - `left` - přejdi do směru doleva
+ - `right` - přejdi do směru doprava
+ - `reset` - reset hry
