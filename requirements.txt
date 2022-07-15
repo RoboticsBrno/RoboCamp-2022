@@ -4,3 +4,4 @@ mkdocs-awesome-pages-plugin~=2.5.0
 mkdocs-encryptcontent-plugin~=2.1.0
 git+https://github.com/it-novum/mkdocs-featherlight.git
 mkdocs-macros-plugin~=0.7.0
+Markdown==3.3.7
