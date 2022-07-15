@@ -137,7 +137,6 @@ nav:
       - microbit/ukazka1/index.md
       - microbit/logic/index.md
       - microbit/rozsireni/index.md
-      - microbit/inspirace/index.md
   - MicroJuice s krabičkou:
       - microJuice/README.md
       - microJuice/manual.md

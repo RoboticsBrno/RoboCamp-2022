@@ -7,10 +7,7 @@ Umožňuje učit základy programování atraktivně a hmatatelně v různých j
 - [x] JavaScript
 - [x] Python
 
-[Lokální programování MicroBitu](https://microbit.lan/){ .md-button .md-button--primary target='_blank' }
-
-??? tip "Při nefunkčnosti nebo doma"
-	[MicroBit odkudkoliv](https://makecode.microbit.org/){ .md-button .md-button--secondary target='_blank' }
+[Programování MicroBitu](https://makecode.microbit.org/){ .md-button .md-button--primary target='_blank' }
 
 
 ![](assets/microbit-sensors.png)
