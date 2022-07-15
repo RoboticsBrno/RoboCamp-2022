@@ -77,8 +77,6 @@ plugins:
       include_yaml:
         - data/microbit.yml
 
-libs: jquery
-
 extra:
   social:
     - icon: fontawesome/brands/github
