@@ -2,10 +2,10 @@ docs_dir: gadgets
 site_name: Robotický tábor 2022
 site_url: https://2022.robotickytabor.cz/
 site_description: >-
-  Robotický tábor 2022...
+  Robotický tábor 2022
 
-# repo_name: RoboticsBrno/RoboCamp-2022
-# repo_url: https://github.com/RoboticsBrno/RoboCamp-2022/
+repo_name: RoboticsBrno/RoboCamp-2022
+repo_url: https://github.com/RoboticsBrno/RoboCamp-2022/
 # edit_uri: blob/main/docs/
 
 # Copyright
@@ -48,10 +48,11 @@ markdown_extensions:
   - pymdownx.keys
   - attr_list
   - pymdownx.tabbed
-  - featherlight # https://github.com/it-novum/mkdocs-featherlight
   - attr_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.snippets:
+      url_download: True
   - toc:
       permalink: "¤"
   - pymdownx.emoji:
@@ -61,18 +62,7 @@ markdown_extensions:
 plugins:
   - search
   - awesome-pages
-  - encryptcontent: # https://github.com/coink0in/mkdocs-encryptcontent-plugin/
-      # global_password: 'your_password'
-      remember_password: True
-      title_prefix: "🔒"
-      summary: "Sem asi nemáš přístup..."
-      placeholder: "Sem zadej heslo:"
-      decryption_failure_message: "Jejda, tohle není ono"
-      encryption_info_message: "Zadej vstupní heslo."
-      # add this line in the top of the MD file
-      # ---
-      # password: PWD
-      # ---
+  - glightbox
   - macros: # https://mkdocs-macros-plugin.readthedocs.io/
       include_yaml:
         - data/microbit.yml
@@ -81,19 +71,23 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/RoboticsBrno
-      name: IREE Discord Server
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/RobotikaBrno
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/robotarna
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@robotikabrno-robotarnaasps2392
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/_robotarna_
 #   analytics:
 #     provider: google
 #     property: ASD
 
 extra_javascript:
-  - assets/featherlight/jquery-latest.js #https://code.jquery.com/jquery-latest.js
-  - assets/featherlight/featherlight.min.js # https://cdn.jsdelivr.net/npm/featherlight@1.7.14/release/featherlight.min.js
   - assets/makecode_embed.js
 #   - assets/config.js
 
 extra_css:
-  - assets/featherlight/featherlight.min.css #https://cdn.jsdelivr.net/npm/featherlight@1.7.14/release/featherlight.min.css
   - assets/style.css
 
 nav:
@@ -138,3 +132,5 @@ nav:
   - MicroJuice s krabičkou:
       - microJuice/README.md
       - microJuice/manual.md
+  - Náš tým :
+        - team/index.md
