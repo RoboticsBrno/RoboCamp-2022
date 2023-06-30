@@ -63,6 +63,7 @@ plugins:
   - search
   - awesome-pages
   - glightbox
+  - open-in-new-tab
   - macros: # https://mkdocs-macros-plugin.readthedocs.io/
       include_yaml:
         - data/microbit.yml
